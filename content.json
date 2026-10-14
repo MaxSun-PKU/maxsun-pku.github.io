@@ -1,0 +1,130 @@
+{
+  "name": "Shengxiu Sun",
+  "role": "PhD candidate in Astronomy",
+  "institution": "Peking University",
+  "email": "sxsun@stu.pku.edu.cn",
+  "orcid": "0000-0002-1234-552X",
+  "scholar": "https://scholar.google.com/citations?user=qXfYwA4AAAAJ&hl=en",
+  "github": "https://github.com/MaxSun-PKU",
+  "updated": "14 October 2026",
+  "publications": [
+    {
+      "id": "Sun2026Hosts",
+      "title": "Quiescent Host Galaxies of Extended Quasars Revealed by Spectrophotometric Decomposition",
+      "authors": "Sun, S., Jiang, L., Pan, Z., Siudek, M., et al.",
+      "year": 2026,
+      "venue": "The Astrophysical Journal, 1004, 13",
+      "status": "Published",
+      "group": "first",
+      "doi": "10.3847/1538-4357/ae6e35",
+      "arxiv": "2607.28732",
+      "summary": "Joint DESI spectroscopy and Subaru/HSC imaging recover the stellar populations of 1,083 extended quasar hosts.",
+      "project": "quasar-hosts"
+    },
+    {
+      "id": "Sun2026ChangingLook",
+      "title": "Changing-Look AGNs from DESI. VI. Host Galaxies",
+      "authors": "Sun, S., Jiang, L., Guo, W.-J., Bosman, S. E. I., & Pan, Z.",
+      "year": 2026,
+      "venue": "arXiv:2607.28735 · Submitted to ApJ",
+      "status": "Submitted",
+      "group": "first",
+      "arxiv": "2607.28735",
+      "summary": "A two-epoch decomposition of 105 changing-look AGNs separates rapid nuclear changes from the longer history of their hosts.",
+      "project": "changing-look"
+    },
+    {
+      "id": "Sun2026Paschen",
+      "title": "Broad Paschen Lines as Black Hole Mass Tracers: A Reverberation Mapping Calibration",
+      "authors": "Sun, S., Bosman, S. E. I., Davies, F. B., Protušová, K., Spina, B., Jiang, L., & Jiang, D.",
+      "year": 2026,
+      "venue": "arXiv:2608.24645 · Submitted to A&A",
+      "status": "Submitted",
+      "group": "first",
+      "arxiv": "2608.24645",
+      "summary": "Near-infrared Paschen-line mass estimators calibrated directly against reverberation-mapping masses.",
+      "project": "paschen"
+    },
+    {
+      "id": "SunKinematics",
+      "title": "Stellar Velocity Dispersions of Quasar Host Galaxies with a Neural Network Trained on Forward-Modeled Spectra",
+      "authors": "Sun, S., Jiang, L., Bosman, S. E. I., & Cheng, Y.",
+      "year": 2026,
+      "venue": "Manuscript in preparation",
+      "status": "In preparation",
+      "group": "first",
+      "summary": "Forward-modeled training spectra, component reconstruction, and calibrated confidence diagnostics for host stellar kinematics.",
+      "project": "kinematics"
+    },
+    {
+      "id": "Jiang2025Reionization",
+      "title": "AGNs Ruled Out as the Dominant Source of Cosmic Reionization",
+      "authors": "Jiang, D., Jiang, L., Sun, S., et al.",
+      "year": 2025,
+      "venue": "Nature Astronomy, 9, 1890–1897",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "3rd author",
+      "doi": "10.1038/s41550-025-02676-7",
+      "summary": "JWST/NIRCam component separation constrains the contribution of AGNs to the ionizing photon budget at cosmic dawn.",
+      "project": "cosmic-dawn"
+    },
+    {
+      "id": "Pan2025Iron",
+      "title": "Iron-corrected Single-epoch Black Hole Masses of DESI Quasars at Low Redshift",
+      "authors": "Pan, Z., Jiang, L., Guo, W.-J., Sun, S., et al.",
+      "year": 2025,
+      "venue": "The Astrophysical Journal, 987, 48",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "4th author",
+      "doi": "10.3847/1538-4357/add7dd"
+    },
+    {
+      "id": "Jiang2026Cosmos",
+      "title": "COSMOS-3D: Black Hole Mass Estimators and Luminosity Functions of Paschen-line AGNs",
+      "authors": "Jiang, D., Jiang, L., Fu, S., Zhang, Z., Chen, J., Pan, Z., Sun, S., et al.",
+      "year": 2026,
+      "venue": "The Astrophysical Journal, 1004, 92",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "7th author",
+      "doi": "10.3847/1538-4357/ae6cd7"
+    },
+    {
+      "id": "Chen2025SOM",
+      "title": "Estimating Bolometric Luminosities of Type 1 Quasars with Self-organizing Maps",
+      "authors": "Chen, J., Jiang, L., Sun, S., et al.",
+      "year": 2025,
+      "venue": "The Astrophysical Journal, 988, 204",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "3rd author",
+      "doi": "10.3847/1538-4357/ade307"
+    },
+    {
+      "id": "Guo2025BroadLines",
+      "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. IV. Broad Emission-line Evolution Sequence among Hα, Mg II, and Hβ",
+      "authors": "Guo, W.-J., Fawcett, V. A., Siudek, M., Li, Y.-R., Cheng, C., Panda, S., Pan, Z., Sun, S., et al.",
+      "year": 2025,
+      "venue": "The Astrophysical Journal, 995, 139",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "8th author",
+      "doi": "10.3847/1538-4357/ae1d7b"
+    },
+    {
+      "id": "Yin2026QLF",
+      "title": "Luminosity Function of Quasars at 1.0 < z < 3.5 from SDSS and DESI",
+      "authors": "Yin, G., Jiang, L., Pan, Z., Martini, P., Guo, W.-J., Zou, S., Sun, S., et al.",
+      "year": 2026,
+      "venue": "The Astrophysical Journal, 1008, 60",
+      "status": "Published",
+      "group": "collaborative",
+      "position": "7th author",
+      "doi": "10.3847/1538-4357/ae9302"
+    }
+  ],
+  "site_url": "https://maxsun-pku.github.io",
+  "updated_iso": "2026-10-14"
+}
